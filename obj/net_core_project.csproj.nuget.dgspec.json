@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\Documents\\net_core_project\\net_core_project.csproj": {}
+    "C:\\Users\\pedro\\project\\entire_app\\net_core_app\\net_core_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\Documents\\net_core_project\\net_core_project.csproj": {
+    "C:\\Users\\pedro\\project\\entire_app\\net_core_app\\net_core_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\Documents\\net_core_project\\net_core_project.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\project\\entire_app\\net_core_app\\net_core_project.csproj",
         "projectName": "net_core_project",
-        "projectPath": "C:\\Users\\pedro\\Documents\\net_core_project\\net_core_project.csproj",
+        "projectPath": "C:\\Users\\pedro\\project\\entire_app\\net_core_app\\net_core_project.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\Documents\\net_core_project\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\project\\entire_app\\net_core_app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

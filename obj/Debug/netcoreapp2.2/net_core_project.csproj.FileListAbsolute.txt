@@ -20,3 +20,17 @@ C:\Users\pedro\Documents\net_core_project\net_core_app\obj\Debug\netcoreapp2.2\n
 C:\Users\pedro\Documents\net_core_project\net_core_app\obj\Debug\netcoreapp2.2\net_core_project.AssemblyInfo.cs
 C:\Users\pedro\Documents\net_core_project\net_core_app\obj\Debug\netcoreapp2.2\net_core_project.dll
 C:\Users\pedro\Documents\net_core_project\net_core_app\obj\Debug\netcoreapp2.2\net_core_project.pdb
+C:\Users\pedro\project\entire_app\net_core_app\bin\Debug\netcoreapp2.2\net_core_project.deps.json
+C:\Users\pedro\project\entire_app\net_core_app\bin\Debug\netcoreapp2.2\net_core_project.runtimeconfig.json
+C:\Users\pedro\project\entire_app\net_core_app\bin\Debug\netcoreapp2.2\net_core_project.runtimeconfig.dev.json
+C:\Users\pedro\project\entire_app\net_core_app\bin\Debug\netcoreapp2.2\net_core_project.dll
+C:\Users\pedro\project\entire_app\net_core_app\bin\Debug\netcoreapp2.2\net_core_project.pdb
+C:\Users\pedro\project\entire_app\net_core_app\obj\Debug\netcoreapp2.2\net_core_project.csprojAssemblyReference.cache
+C:\Users\pedro\project\entire_app\net_core_app\obj\Debug\netcoreapp2.2\net_core_project.csproj.CoreCompileInputs.cache
+C:\Users\pedro\project\entire_app\net_core_app\obj\Debug\netcoreapp2.2\net_core_project.RazorAssemblyInfo.cache
+C:\Users\pedro\project\entire_app\net_core_app\obj\Debug\netcoreapp2.2\net_core_project.RazorAssemblyInfo.cs
+C:\Users\pedro\project\entire_app\net_core_app\obj\Debug\netcoreapp2.2\net_core_project.AssemblyInfoInputs.cache
+C:\Users\pedro\project\entire_app\net_core_app\obj\Debug\netcoreapp2.2\net_core_project.AssemblyInfo.cs
+C:\Users\pedro\project\entire_app\net_core_app\obj\Debug\netcoreapp2.2\net_core_project.RazorTargetAssemblyInfo.cache
+C:\Users\pedro\project\entire_app\net_core_app\obj\Debug\netcoreapp2.2\net_core_project.dll
+C:\Users\pedro\project\entire_app\net_core_app\obj\Debug\netcoreapp2.2\net_core_project.pdb
