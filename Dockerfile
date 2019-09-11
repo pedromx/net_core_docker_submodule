@@ -20,3 +20,9 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app .
 ENTRYPOINT ["dotnet", "net_core_project.dll"]
+
+ 
+#docker build -t net_core_app:dev .
+#docker run --rm -d -p 80:80/tcp e71ef54087bb => (image id)
+
+
