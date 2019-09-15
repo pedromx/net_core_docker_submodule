@@ -2,7 +2,8 @@
 #For more information, please see https://aka.ms/containercompat
 
 #FROM mcr.microsoft.com/dotnet/core/aspnet:2.2-nanoserver-1809 AS base
-FROM mcr.microsoft.com/dotnet/core/runtime:2.2 AS base
+#FROM mcr.microsoft.com/dotnet/core/runtime:2.2 AS base
+FROM mcr.microsoft.com/dotnet/core/aspnet:2.2 AS base
 WORKDIR /app
 EXPOSE 80
 
@@ -26,6 +27,6 @@ ENTRYPOINT ["dotnet", "net_core_project.dll"]
 
  
 #docker build -t net_core_app:dev .
-#docker run --rm -d -p 80:80/tcp e71ef54087bb => (image id)
+#docker run --rm -d -p 80:80/tcp 79fea49cedd7 => (image id)
 
 
