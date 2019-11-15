@@ -8,7 +8,7 @@ namespace net_core_project.Repository
     {
         public UserRepository(){}
         public void CreateConnection(){
-                //var connectionString = "Server=localhost;Port=5432;Database=TestDataBase;User Id=postgres;Password=forrito666;";
+                //var connectionString = "Server=localhost;Port=5432;Database=TestDataBase;User Id=postgres;Password=passwordSample;";
    
         }
     }
